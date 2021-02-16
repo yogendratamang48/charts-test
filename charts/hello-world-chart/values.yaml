@@ -1,6 +1,0 @@
-name: hello-world
-image:
-  repository: yogen48/express-hello-world
-  tag: v2.0
-
-secretName: example-secret
